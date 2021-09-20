@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 footer{
     background: #414141;
@@ -37,7 +35,7 @@ footer{
     font-size: 24px;
     margin: 20px 0 0 0;
     color: #9e9797;
-
+}
 
 main .EducAula-QuienesSomos{
     padding: 30px 0 60px 0;
@@ -78,7 +76,7 @@ main .EducAula-QuienesSomos{
     font-weight: 300;
     text-align: justify;
 
->>>>>>> 33829441b3f8380d0218e4dac4e9a5d55a5f7ba5
+}
 body {
     font-family: 'open sans';
 }
@@ -125,9 +123,4 @@ header .texto-encabezado{
     font-size: 30px;
     font-weight: 300;
     color: #F1F5F8;
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 33829441b3f8380d0218e4dac4e9a5d55a5f7ba5
 }
